@@ -28,6 +28,7 @@ public class Main {
 				mult2 = sn.nextInt();
 				System.out.println(multiplicar2(mult1, mult2));
 				System.out.println(Main.suma2(sum1, sum2));
+				System.out.println("Le hago cambios");
 				break;
 
 			case 3:
