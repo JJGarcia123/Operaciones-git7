@@ -27,6 +27,7 @@ public class Main {
 				System.out.print("Introduce el segundo número: ");
 				mult2 = sn.nextInt();
 				System.out.println(multiplicar2(mult1, mult2));
+				System.out.println(Main.suma2(sum1, sum2));
 				break;
 
 			case 3:
